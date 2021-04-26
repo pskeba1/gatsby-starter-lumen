@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: ""
+socialImage: "/media/image-2.jpg"
 ---
 
 I am a fourth year PhD student in the Computer Science and Engineering department at Lehigh University, advised by [Eric Baumer](http://ericbaumer.com). I received bachelor degrees in Computer Science and Cognitive Science from Johns Hopkins University in 2017.
