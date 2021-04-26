@@ -32,7 +32,7 @@ module.exports = {
       email: 'pts217@lehigh.edu',
       facebook: '',
       telegram: '',
-      twitter: '#',
+      twitter: 'SkebaPT',
       github: '',
       rss: '',
       vkontakte: '',
