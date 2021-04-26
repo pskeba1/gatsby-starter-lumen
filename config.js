@@ -1,18 +1,18 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://patrickskeba.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Patrick Skeba',
+  subtitle: 'PhD Student, Lehigh University',
+  copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Publications',
       path: '/'
     },
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Patrick Skeba',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'CS PhD @ Lehigh University. Algorithms, privacy, and online communities.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
+      email: 'pts217@lehigh.edu',
+      facebook: '',
+      telegram: '',
       twitter: '#',
-      github: '#',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'patrick-skeba-3806a2135/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
